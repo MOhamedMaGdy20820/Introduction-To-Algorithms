@@ -67,3 +67,15 @@ some text<br>some text
 
 - [ ] task one
 - [x] task two
+
+| colorrrrrrrrrrrrrr | aaaaaaaaaaaaaaaaaaaanimals |nnnnnnname|
+|:-  |:-:|-:|
+|green | cat | bosy|
+| yello | cat | losy|
+
+<details>
+ <summary>section header</summary>
+- [x]section bady text <br>
+
+- help
+ </details>
