@@ -1,3 +1,1 @@
-
-A=[]
-for j = 2 to a.
+print(5)
